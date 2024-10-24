@@ -13,3 +13,8 @@ The Library Management System is a Python-based application that allows users to
 1. Clone the repository:
    ```bash
    git clone https://github.com/eliashossain001/Library-Management-System
+
+2. Navigate to the directory
+   ```bash
+   cd Library-Management-System
+
