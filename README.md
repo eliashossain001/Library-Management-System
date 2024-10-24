@@ -14,18 +14,18 @@ By employing a structured design that separates concerns into distinct modules, 
 
 ## Installation
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/eliashossain001/Library-Management-System
-```
+   ```
 2. Navigate to the directory
-   ```bash
+   ```
    cd Library-Management-System
    ```
 ## Usages
 To run the application, execute the following command:
-   ```bash
+   ```
    cd python main.py
-
+   ```
 ## Folder Structure Explanation
 
 - **entities/**: This folder contains all the entities used in the application. 
