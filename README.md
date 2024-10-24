@@ -16,10 +16,11 @@ By employing a structured design that separates concerns into distinct modules, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/eliashossain001/Library-Management-System
-
+```
 2. Navigate to the directory
    ```bash
    cd Library-Management-System
+   ```
 ## Usages
 To run the application, execute the following command:
    ```bash
