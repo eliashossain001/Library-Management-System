@@ -22,7 +22,7 @@ By employing a structured design that separates concerns into distinct modules, 
    cd Library-Management-System
 ## Usages
 To run the application, execute the following command:
-   ``bash
+   ```bash
    cd python main.py
 
 
