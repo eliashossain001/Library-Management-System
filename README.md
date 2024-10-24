@@ -35,6 +35,11 @@ To run the application, execute the following command:
 - **use_cases/**: This folder contains the core business logic. 
   - `library.py` manages all the interactions between books and users, such as adding books, registering users, and managing borrow/return operations.
 
+- **user_interfaces/**: This folder contains the user interface components of the application.
+
+   - `library_interface.py`: Handles the user interface for library operations, allowing users to interact with the system through a console or GUI.
+   - `user_interface.py`: Manages user-specific interactions, including registration and user-related functionalities.
+
 - **main.py**: The entry point of the program where the system is initialized, books and users are created, and operations like borrowing and returning books are demonstrated. It serves as the controller that binds all the components together.
 
 
@@ -53,6 +58,5 @@ The project follows the Clean Code Architecture principles to ensure that the co
   
   This separation makes the code easier to maintain and update.
 
-```
 
 
