@@ -23,6 +23,6 @@ By employing a structured design that separates concerns into distinct modules, 
 ## Usages
 To run the application, execute the following command:
    ``bash
-   python main.py
+   cd python main.py
 
 
