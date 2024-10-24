@@ -17,4 +17,18 @@ The Library Management System is a Python-based application that allows users to
 2. Navigate to the directory
    ```bash
    cd Library-Management-System
+## Usages
+To run the application, execute the following command:
+   ``bash
+   python main.py
+
+## File Structure
+
+Library-Management-System/
+├── entities/
+│   ├── book.py          # BookInformation class
+│   └── user.py          # UserRecord and AdminUser classes
+├── use_cases/
+│   └── library.py       # LibraryProperty class
+└── main.py              # Main application entry point
 
