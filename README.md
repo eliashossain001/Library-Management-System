@@ -1,7 +1,11 @@
 # Library Management System
 
 ## Overview
-The Library Management System is a Python-based application that allows users to manage a collection of books in a library. It provides functionalities for adding and removing books, registering users, borrowing and returning books, and viewing available and borrowed books.
+## Overview
+The Library Management System is a Python-based application designed with clean code architecture principles, promoting modularity, readability, and maintainability. This system allows users to efficiently manage a collection of books in a library, providing functionalities for adding and removing books, registering users, borrowing and returning books, and viewing both available and borrowed books.
+
+By employing a structured design that separates concerns into distinct modules, the application enhances collaboration and simplifies future enhancements or debugging. This approach not only ensures that the codebase is easy to navigate but also fosters best practices in software development, making it suitable for both educational purposes and real-world applications.
+
 
 ## Features
 - **Book Management**: Add and remove books from the library.
