@@ -22,13 +22,4 @@ To run the application, execute the following command:
    ``bash
    python main.py
 
-## File Structure
-
-Library-Management-System/
-├── entities/
-│   ├── book.py          # BookInformation class
-│   └── user.py          # UserRecord and AdminUser classes
-├── use_cases/
-│   └── library.py       # LibraryProperty class
-└── main.py              # Main application entry point
 
